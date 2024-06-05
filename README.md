@@ -10,3 +10,7 @@ To run the file, just download the code and run it. Make sure you have Java inst
 
   ### **Forest**<br>
 ![image](https://github.com/ayan-naskar/TreeFractalGenerator/assets/88626486/9fbce5ea-b682-4b84-999a-cce197fb0bf2)
+
+  ### **Growing Tree**<br>
+https://github.com/ayan-naskar/TreeFractalGenerator/assets/88626486/45d46c8f-f9cd-4999-8363-f58139fbb9b5
+
